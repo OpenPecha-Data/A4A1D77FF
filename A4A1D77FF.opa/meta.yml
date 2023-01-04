@@ -1,0 +1,19 @@
+id: A4A1D77FF
+title: Prayer of Transference
+type: translation
+pechas:
+- IFB4468CF
+- I08198982
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:35:01.647651
+  last_modified_at: 2023-01-04 11:35:01.647662
+  collections:
+  - Dezhung Tulku Ajam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IFB4468CF/62A2: 922F
+  I08198982/7A5B: 922F
